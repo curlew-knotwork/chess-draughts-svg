@@ -20,3 +20,6 @@ https://commons.wikimedia.org/wiki/File:10x10_checkered_board.svg
 All board pieces drawn by hand using Inkscape
 
 Lasercutting: hairline (red) is for burning. Black is for etching.
+
+# To Do
+[ ] Stands/bases for pieces
