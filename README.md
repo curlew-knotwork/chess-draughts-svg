@@ -5,5 +5,6 @@ https://commons.wikimedia.org/wiki/File:10x10_checkered_board.svg
 
 8x8 Chess board and pieces.
 10x10 Draughts board and pieces.
+All board pieces drawn by hand using Inkscape
 
 Lasercutting: hairline (red) is for burning. Black is for etching.
