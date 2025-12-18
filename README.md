@@ -5,6 +5,10 @@
 svg for laser cutting an 8x8 chess set and 10x10 checkers/draughts set
 from 3 mm plywood.
 
+# LICENSE
+See License.txt
+Attribution: https://github.com/curlew-knotwork
+
 # STATUS
 - Status = work in progress (10.12.2025)
 - not finished yet
